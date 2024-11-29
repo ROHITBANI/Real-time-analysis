@@ -3,6 +3,8 @@ We'll use the OpenWeatherMap API for weather and the ExchangeRate-API for curren
 
 Real-Time Data Application
 This program:
+
+
 Fetches current weather information for a user-specified city.
 Fetches live currency exchange rates between two currencies.
 Provides an interactive interface using Streamlit.
